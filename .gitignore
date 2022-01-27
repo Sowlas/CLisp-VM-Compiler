@@ -1,0 +1,5 @@
+# Ignore all lisp bytecode compilation byproducts and bytecode
+
+target/*
+*.fas
+*.lib
